@@ -12,5 +12,5 @@ export default function heroStatus(obj) {
     return null;
 }
 
-// console.log(heroStatus({health: 100}))
+// console.log(heroStatus({health: 1000}))
 // module.exports = heroStatus;
